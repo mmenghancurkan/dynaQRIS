@@ -1,0 +1,39 @@
+{
+  "qris_string": "00020101021126610014COM.GO-JEK.WWW01189360091432511468580210G2511468580303UMI51440014ID.CO.QRIS.WWW0215ID10264984229830303UMI5204421553033605802ID5925EUROVIAN ZUFIRDY, onTheGo6008SURABAYA61056019262070703A0163045096",
+  "merchant_info": {
+    "raw_string": "00020101021126610014COM.GO-JEK.WWW01189360091432511468580210G2511468580303UMI51440014ID.CO.QRIS.WWW0215ID10264984229830303UMI5204421553033605802ID5925EUROVIAN ZUFIRDY, onTheGo6008SURABAYA61056019262070703A0163045096",
+    "payload_format": "01",
+    "point_of_initiation": "11",
+    "merchant_account": {
+      "globally_unique_identifier": "COM.GO-JEK.WWW",
+      "merchant_pan": "936009143251146858",
+      "merchant_id": "G251146858",
+      "merchant_criteria": "UMI"
+    },
+    "additional_merchant": {
+      "globally_unique_identifier": "ID.CO.QRIS.WWW",
+      "merchant_pan": "ID1026498422983",
+      "merchant_criteria": "UMI"
+    },
+    "merchant_category_code": "4215",
+    "currency": "360",
+    "amount": "",
+    "country_code": "ID",
+    "merchant_name": "EUROVIAN ZUFIRDY, onTheGo",
+    "merchant_city": "SURABAYA",
+    "postal_code": "60192",
+    "additional_data": {
+      "bill_number": "",
+      "mobile_number": "",
+      "store_label": "",
+      "loyalty_number": "",
+      "reference_label": "",
+      "customer_label": "",
+      "terminal_label": "A01",
+      "purpose_of_transaction": "",
+      "additional_consumer_data": ""
+    },
+    "crc": "5096"
+  },
+  "confirmed_at": "2026-06-17T17:28:55.759393"
+}

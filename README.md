@@ -14,6 +14,7 @@ Author: Eurovian Zufirdy (github.com/mmenghancurkan)
 
 ## Setup 🔧
 ```python
+  git clone https://mmenghancurkan/dynaQRIS.git
   pip install -r requirements.txt
   python app.py
 ```

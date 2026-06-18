@@ -17,3 +17,4 @@ Author: Eurovian Zufirdy (github.com/mmenghancurkan)
   pip install -r requirements.txt
   python app.py
 ```
+Any questions? Feel free to contact me via [Instagram](https://instagram.com/mmenghancurkan)
